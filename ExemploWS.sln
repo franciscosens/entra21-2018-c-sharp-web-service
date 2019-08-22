@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebService", "WebService\WebService.csproj", "{1715BFAA-55C8-4C21-BFB1-12EFF230E1A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{5FB73176-AA1A-4C0B-8A40-A65FCFE8952F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository", "Repository\Repository.csproj", "{2781944D-8B04-4BFE-A007-60C727AF1310}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1715BFAA-55C8-4C21-BFB1-12EFF230E1A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1715BFAA-55C8-4C21-BFB1-12EFF230E1A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1715BFAA-55C8-4C21-BFB1-12EFF230E1A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1715BFAA-55C8-4C21-BFB1-12EFF230E1A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FB73176-AA1A-4C0B-8A40-A65FCFE8952F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FB73176-AA1A-4C0B-8A40-A65FCFE8952F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FB73176-AA1A-4C0B-8A40-A65FCFE8952F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FB73176-AA1A-4C0B-8A40-A65FCFE8952F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2781944D-8B04-4BFE-A007-60C727AF1310}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2781944D-8B04-4BFE-A007-60C727AF1310}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2781944D-8B04-4BFE-A007-60C727AF1310}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2781944D-8B04-4BFE-A007-60C727AF1310}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B00DC29A-2EB6-433E-98F3-9EAFD070A391}
+	EndGlobalSection
+EndGlobal
